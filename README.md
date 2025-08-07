@@ -53,7 +53,7 @@
 
 ### 📫 Connect with Me
 
-- 📧 Email: [ankitagr09@gmail.com](mailto:ankitagr09@gmail.com)
+- 📧 Email: [Garga1217@gmail.com](mailto:Garga1217@gmail.com)
 - 💼 Portfolio: [ankitagr09.github.io](https://ankitagr09.github.io)
 - 🔗 Company: [D3Cloud IT Services](https://dtcit.in)
 
