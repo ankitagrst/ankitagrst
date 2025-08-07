@@ -19,8 +19,8 @@
 
 - 🔭 I’m currently building a **self-hosted bulk email server** (Mailchimp alternative)
 - 🧠 Exploring **Vedas**, **Consciousness**, and **Ancient Knowledge Systems**
-- 💼 Founder of **D3Cloud IT Services** & **Infyniti Software Solutions**
-- 📘 Writing a book on **Shopify Theme Development**
+- 💼 Founder of **D3Cloud IT Services**
+- 📘 Written a book on **Shopify Theme Development**
 - 🌱 Actively involved in **IT Training**, **Corporate Strategy**, and **Digital Products**
 
 ---
